@@ -2,19 +2,18 @@
   "name": "Test2",
   "projectId": "c62db545-1d4a-4b4e-8af8-729588e614cd",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "Main1.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.22.3]",
-    "UiPath.Mail.Activities": "[1.21.1]",
-    "UiPath.System.Activities": "[23.10.5]",
-    "UiPath.Testing.Activities": "[23.10.1]",
-    "UiPath.UIAutomation.Activities": "[23.10.7]"
+    "UiPath.Mail.Activities": "[2.5.10]",
+    "UiPath.System.Activities": "[25.12.2]",
+    "UiPath.Testing.Activities": "[25.10.0]",
+    "UiPath.UIAutomation.Activities": "[25.10.26]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.10.4.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -50,8 +49,8 @@
   "expressionLanguage": "CSharp",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "e0ccb964-78e2-4071-a5c2-9d8615c3ec05",
+      "filePath": "Main1.xaml",
+      "uniqueId": "f93b46fe-1940-4e06-8187-5ce4e0db866d",
       "input": [],
       "output": []
     }
